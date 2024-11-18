@@ -1,0 +1,72 @@
+<html>
+  <head>
+   	<title>Uvod do prakticke fyziky</title>
+    <meta charset="UTF-8">
+	</head>
+
+<p>
+<h2>Úvod do praktické fyziky NOFY055</h2>
+
+čtvrtek 15:40, učebna T7 </br>
+čtvrtek 17:20, učebna T7
+
+<h4><a href="http://nmr.mff.cuni.cz/chlan">RNDr. Vojtěch Chlan, Ph.D.</a></h4>
+</p>
+<hr>
+<p>
+
+<ul>
+<li><b>seminář 1:</b> <i> Úvodní hodina. Základní pojmy, klasifikace chyb, zápis výsledku </i></li>
+<li> <a href="01.pdf" target="_blank"> přednáška</a> </li>
+<li> <a href="cviceni1.pdf" target="_blank"> cvičení</a> </li> 
+<ul>  <li>Excel soubor <a href = "prumery.xlsx"> prumery.xlsx </a></li> </ul>
+<li> <a href="ulohy1.pdf" target="_blank"> seminární úlohy</a> </li>
+<ul> <li> <a href="reseni1.pdf" target="_blank"> vzorové řešení</a> </li></ul>
+<li> <a href="shrnuti1.pdf" target="_blank"> stručné shrnutí </a></li>
+</ul>
+<hr>
+
+<ul>
+<li><b>seminář 2:</b> <i> Klasifikace chyb, maximální chyba. Určování nejistoty přístrojů </i></li>
+<li> <a href="02.pdf" target="_blank"> přednáška</a> </li>
+<ul> <li> Excel soubor <a href="3-sigma-kriterium.xlsx"> 3-sigma-kriterium.xlsx </a></li></ul>
+<li> <a href="cviceni2.pdf" target="_blank"> cvičení</a> </li>
+<li> <a href="ulohy2.pdf" target="_blank"> seminární úlohy</a> </li>
+<ul> <li> <a href="reseni2.pdf" target="_blank"> vzorové řešení</a> </li> </ul>
+<!--<ul>  <li> vzorové řešení </li> </ul>-->
+<li> <a href="shrnuti2.pdf" target="_blank"> stručné shrnutí </a></li>
+</ul>
+<hr>
+
+<ul>
+<li><b>seminář 3:</b> <i> Diskrétní náhodná proměnná, pravděpodobnost, rozdělení pravděpodobnosti </i></li>
+<li> <a href="03.pdf" target="_blank"> přednáška</a> </li>
+<ul> <li> barevný test generátoru náhodných čísel v Pythonu <a href="color-test.py"> color-test.py </a></li></ul>
+<ul> <li> generátor náhodných čísel v Excelu <a href="generator-nahodnych-cisel.xlsx"> generator-nahodnych-cisel.xlsx </a></li></ul>
+<ul> <li> simulace exponenciálního rozpadu v Excelu <a href="simulace-exp-rozpad.xlsx"> simulace-exp-rozpad.xlsx </a></li></ul>
+<li> <a href="cviceni3.pdf" target="_blank"> cvičení</a> </li>
+<li> <a href="ulohy3.pdf" target="_blank"> seminární úlohy</a> </li>
+<ul> <li> <a href="reseni3.pdf" target="_blank"> vzorové řešení</a> </li> </ul>
+<ul> <li> nakreslení v gnuplotu <a href="exp-dist.gnu"> exp-dist.gnu </a></li></ul>
+<li> <a href="shrnuti3.pdf" target="_blank"> stručné shrnutí </a></li>
+</ul>
+<hr>
+
+<ul>
+<li><b>seminář 4:</b> <i> Rozdělení pravděpodobnosti a histogram. Momenty a další charakteristiky rozdělení pravděpodobnosti </i></li>
+<li> <a href="04.pdf" target="_blank"> přednáška</a> </li>
+<ul> <li> soubor s daty <a href="data.dat"> data.dat </a></li></ul>
+<ul> <li> program pro vytvoření a vykreslení histogramu z data.dat (ROOT) <a href="histogram.c"> histogram.c </a></li></ul>
+<ul> <li> program pro simulaci dat v data.dat (ROOT) <a href="hist-simulate.c"> hist-simulate.c </a></li></ul>
+<ul> <li> generátor normálně rozdělených náhodných čísel (python) <a href="gauss.py"> gauss.py </a></li></ul>
+<li> <a href="cviceni4.pdf" target="_blank"> cvičení</a> </li>
+<li> <a href="ulohy4.pdf" target="_blank"> seminární úlohy</a> </li>
+<!--<ul> <li> <a href="reseni4.pdf" target="_blank"> vzorové řešení</a> </li> </ul>-->
+<ul>  <li> vzorové řešení </li> </ul>
+<li> <a href="shrnuti4.pdf" target="_blank"> stručné shrnutí </a></li>
+</ul>
+<hr>
+
+
+
+</html>
